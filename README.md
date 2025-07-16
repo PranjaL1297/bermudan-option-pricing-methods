@@ -1,6 +1,8 @@
 # Twice-Exercisable Bermudan Put Option Pricing
 
-This repository presents the pricing of a **twice-exercisable Bermudan put option** using various Monte Carlo techniques under a risk-neutral Geometric Brownian Motion (GBM) model. Developed as part of my MSc Quantitative Finance program at UCD Michael Smurfit Graduate Business School.
+This repository presents the pricing of a **twice-exercisable Bermudan put option** using advanced Monte Carlo simulation techniques under a risk-neutral Geometric Brownian Motion (GBM) framework. The project was completed as part of the MSc in Quantitative Finance at UCD Michael Smurfit Graduate Business School.
+
+📌 **This project was submitted for the Spring 2024 module "Numerical Methods" (FIN40040) and received a top grade of A (4.0 Grade Points), demonstrating strong implementation, financial insight, and model interpretation.**
 
 ## 🧮 Objective
 

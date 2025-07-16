@@ -80,14 +80,6 @@ The following pricing methods are implemented and compared:
 
 ---
 
-## 📂 Repository Structure
-│
-├── README.md
-├── bermudan_option_pricing.ipynb   # Jupyter Notebook with all implementations
-├── results/
-│   ├── sample_paths.png
-│   └── method_comparison.png
----
 
 ## 👨‍💻 Author
 
